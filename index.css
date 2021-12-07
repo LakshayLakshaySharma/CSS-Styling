@@ -1,0 +1,58 @@
+#black{
+    padding : 10px;
+    background-color : black;
+    border-radius : 50%;
+  }
+  
+  #red{
+    padding : 10px;
+    background-color : red;
+    border-radius : 50%;
+  }
+  
+  #green{
+    padding : 10px;
+    background-color : green;
+    border-radius : 50%;
+  }
+  
+  #blue {
+    padding : 10px;
+    background-color : blue;
+    border-radius : 50%;
+  }
+  
+  #header{
+    font-family : "arial";
+    font-size : 40px;
+    text-decoration  : underline;
+  }
+  
+  body{
+    text-align : center;
+  }
+  
+  #css-container{
+    border : 3px solid black;
+    border-radius : 10px;
+    width : 350px;
+    margin : auto;
+    padding : 10px;
+  }
+  
+  .head{
+    font-size : 25px;
+    font-family : monospace;
+  
+  }
+  
+  
+  .btn{
+    font-family : arial;
+    font-size : 20px;
+    color : white;
+    background-color : rgba(42, 42, 202, 0.8);
+    border : none;
+    padding :7px;
+    border-radius :10px;
+  }
